@@ -1,6 +1,6 @@
 # Rollcall
 
 ## Name, GitHub username, and class-related interests
-* Beatriz E. Palacios A.
-  * GitHub: bepalaciosa
-  * Interests: computing for social good, building open-source community at UNM
+* Killian Pineda
+  * GitHub: killianpineda
+  * Interests: software engineering, cloud computing, formula 1, learning foreign languages
